@@ -26,16 +26,3 @@ Users can navigate between pages by clicking the respective icons in the navigat
 - Event handling for interactivity (e.g., image sliders)
 - Client-side routing between pages (simulated navigation)
 
-
-## 📂 Folder Structure
-
-├── index.html
-├── product.html
-├── cart.html
-├── signin.html
-├── style.css
-├── product.css
-├── cart.css
-├── signin.css
-├── script.js
-├── assets/Photos
